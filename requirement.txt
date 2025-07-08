@@ -1,0 +1,7 @@
+streamlit
+google-search-results
+beautifulsoup4
+python-pptx
+langchain-openai
+langchain-community
+openai
